@@ -1,1 +1,3 @@
 # smartCity
+
+Sample will be here soon ...
